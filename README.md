@@ -115,9 +115,11 @@ A web-based attendance project built around face recognition and attendance mana
 ## 🐍 Contribution Journey
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/jck-y/jck-y/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph" width="100%" />
-
+  <img
+    src="https://raw.githubusercontent.com/jck-y/jck-y/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </div>
 
 ---
